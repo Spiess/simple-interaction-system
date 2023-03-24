@@ -1,0 +1,14 @@
+{
+  "name": "simple-interaction-system",
+  "version": "1.0.0",
+  "displayName": "Simple Interaction System",
+  "description": "A simple interaction system for VR interactions based on hover, grab, activate and point actions.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Florian Spiess",
+    "email": "florian.spiess@unibas.ch"
+  },
+  "dependencies": {
+    "com.unity.inputsystem": "1.5.0"
+  }
+}
